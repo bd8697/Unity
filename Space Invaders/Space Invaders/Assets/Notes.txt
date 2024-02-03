@@ -1,0 +1,7 @@
+Player has a  heat-up when shooting, so he can't fire continuously. If heat level is met, firing starts a long cooldown.
+
+New enemy type: cant deal damage, has aura that boosts enemies.
+
+New enemy type: fires continuous laser.
+
+For transitions / messages, etc.: Think of an effect that tells the message (e.g. Mario style explosions at the end of the level) instead of just plain boring text.

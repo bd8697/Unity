@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 604c9f840a58eef4394c675e48f0a94d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5588348647617029585
+    second: dogge_sheet_0
+  - first:
+      213: 6987729304297812060
+    second: dogge_sheet_1
+  - first:
+      213: 5375061477493329259
+    second: dogge_sheet_2
+  - first:
+      213: -2130421913159072669
+    second: dogge_sheet_3
+  - first:
+      213: -3922733621684688732
+    second: dogge_sheet_4
+  - first:
+      213: 9033666852542360405
+    second: dogge_sheet_5
+  - first:
+      213: -2821743508165467265
+    second: dogge_sheet_6
+  - first:
+      213: 6482757188425312514
+    second: dogge_sheet_7
+  - first:
+      213: 8575619153753734239
+    second: dogge_sheet_8
+  - first:
+      213: 3505713604274359268
+    second: dogge_sheet_9
+  - first:
+      213: 813949275571102357
+    second: dogge_sheet_10
+  - first:
+      213: -7255026889094001238
+    second: dogge_sheet_0
+  - first:
+      213: 974556276059539981
+    second: dogge_sheet_1
+  - first:
+      213: 1191957449068884498
+    second: dogge_sheet_2
+  - first:
+      213: -1456321203146418566
+    second: dogge_sheet_3
+  - first:
+      213: -7811071556810254045
+    second: dogge_sheet_4
+  - first:
+      213: -8301783899203683321
+    second: dogge_sheet_5
+  - first:
+      213: 5868930870113335577
+    second: dogge_sheet_6
+  - first:
+      213: -514670660731848098
+    second: dogge_sheet_7
+  - first:
+      213: 3514812629937740151
+    second: dogge_sheet_8
+  - first:
+      213: -172127671108380754
+    second: dogge_sheet_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dogge_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 1193
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad05afab77f05b90800000000000000
+      internalID: -7255026889094001238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 71
+        width: 1143
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a082805c1568d00800000000000000
+      internalID: 974556276059539981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 77
+        width: 1149
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b1231cfeaa8010800000000000000
+      internalID: 1191957449068884498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 77
+        width: 1154
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769697e49b1acbe0800000000000000
+      internalID: -1456321203146418566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 77
+        width: 1160
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329da2dcdcf799390800000000000000
+      internalID: -7811071556810254045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 76
+        width: 1161
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c38e547832acc80800000000000000
+      internalID: -8301783899203683321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 71
+        width: 1156
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fd6c0881a27150800000000000000
+      internalID: 5868930870113335577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 71
+        width: 1155
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a33cac2c58bd8f0800000000000000
+      internalID: -514670660731848098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 9742
+        y: 71
+        width: 1150
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779de73f67f17c030800000000000000
+      internalID: 3514812629937740151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogge_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 10965
+        y: 71
+        width: 1165
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d19b8bca7c9df0800000000000000
+      internalID: -172127671108380754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
